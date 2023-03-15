@@ -6,8 +6,7 @@
         },
       "vscode": {
         "extensions": [
-          "github.copilot",
-          // "eamodio.gitlens",
+          "github.copilot"
         ],
       },
       "portsAttributes": {
