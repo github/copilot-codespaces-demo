@@ -1,5 +1,5 @@
 {
-    "name": "Try Codespaces",
+    "name": "Try Copilot",
     "customizations": {
         "codespaces": {
           "openFiles": ["README.md"]
@@ -7,7 +7,7 @@
       "vscode": {
         "extensions": [
           "github.copilot",
-          "eamodio.gitlens",
+          // "eamodio.gitlens",
         ],
       }
     }
