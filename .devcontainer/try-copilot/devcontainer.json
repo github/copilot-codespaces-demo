@@ -3,6 +3,13 @@
     "customizations": {
         "codespaces": {
           "openFiles": ["README.md"]
-        }
+        },
+      "vscode": {
+        "extensions": [
+          "github.copilot",
+          "eamodio.gitlens",
+        ],
+      }
     }
+
 }
