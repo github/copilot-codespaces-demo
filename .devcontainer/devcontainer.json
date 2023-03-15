@@ -12,7 +12,7 @@
       },
       "portsAttributes": {
         "3000": {
-          "label": "Application",
+          "label": "README",
           "onAutoForward": "openPreview"
         }
       },
