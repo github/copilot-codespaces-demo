@@ -1,0 +1,8 @@
+{
+    "name": "Try Codespaces",
+    "customizations": {
+        "codespaces": {
+          "openFiles": ["README.md"]
+        }
+    }
+}
