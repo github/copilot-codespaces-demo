@@ -4,17 +4,16 @@
         "codespaces": {
           "openFiles": ["README.md"]
         },
-      "vscode": {
+        "vscode": {
         "extensions": [
           "github.copilot"
-        ],
-      },
+        ]},
       "portsAttributes": {
         "3000": {
           "label": "README",
           "onAutoForward": "openPreview"
         }
-      },
-      "forwardPorts": [3000]
-    }
+      }
+    },
+    "forwardPorts": [3000]
 }
