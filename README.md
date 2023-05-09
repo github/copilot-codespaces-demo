@@ -5,7 +5,9 @@
 Our goal is to provide a self-serve, one-click Copilot experience that will be hosted on Codespaces.
 
 ## What to Expect
-In the GitHub Copilot+Codespaces Demo, you are in charge.
+During the the GitHub Copilot+Codespaces Demo, you are in charge! You will have the opportunity to learn more about Copilot, it's features and how it can help you achieve your developement Goals!
+
+<em>If you are in need of assistance, we have provided Codetours located in the left hand corner that help guide you through the current Copilot capabilities!</em>
 
 
 ## FAQ
