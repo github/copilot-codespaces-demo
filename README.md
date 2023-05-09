@@ -5,16 +5,17 @@
 Our goal is to provide a self-serve, one-click Copilot experience that will be hosted on Codespaces.
 
 ## What to Expect
+In the GitHub Copilot+Codespaces Demo, you are in charge.  GitHub Copilot tries to understand your intent and to generate the best code it can, but the code it suggests may not always work, or even make sense. While we are working hard to make GitHub Copilot better, code suggested by GitHub Copilot should be carefully tested, reviewed, and vetted, like any other code.
 
 
 ## FAQ
 <details>
-<summary>Template Question 1</summary><br>
+<summary>What is GitHub Copilot?</summary><br>
    
-Template text for Question 1.
+GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It draws context from comments and code to suggest individual lines and whole functions instantly. GitHub Copilot is powered by Codex, a generative pretrained language model created by OpenAI. It is available as an extension for Visual Studio Code, Visual Studio, Neovim, and the JetBrains suite of integrated development environments (IDEs).
 </details>
 <details>
-<summary>Template Question 2</summary><br>
+<summary>What is GitHub Codespace?</summary><br>
    
 Template text for Question 2.
 </details>
