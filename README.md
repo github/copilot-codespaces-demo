@@ -5,7 +5,7 @@
 Our goal is to provide a self-serve, one-click Copilot experience that will be hosted on Codespaces.
 
 ## What to Expect
-In the GitHub Copilot+Codespaces Demo, you are in charge.  GitHub Copilot tries to understand your intent and to generate the best code it can, but the code it suggests may not always work, or even make sense. While we are working hard to make GitHub Copilot better, code suggested by GitHub Copilot should be carefully tested, reviewed, and vetted, like any other code.
+In the GitHub Copilot+Codespaces Demo, you are in charge.
 
 
 ## FAQ
@@ -17,7 +17,9 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 <details>
 <summary>What is GitHub Codespaces?</summary><br>
    
-Template text for Question 2.
+A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by configuring dev container files to your repository (often known as Configuration-as-Code), which creates a repeatable codespace configuration for all users of your project.
+
+GitHub Codespaces run on a variety of VM-based compute options hosted by GitHub.com, which you can configure from 2 core machines up to 32 core machines. You can connect to your codespaces from the browser or locally using an IDE like Visual Studio Code or IntelliJ.
 </details>
 <details>
 <summary>Are there any prerequisites to get access to the Copilot+Codespaces demo?</summary><br>
