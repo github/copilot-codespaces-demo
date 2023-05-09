@@ -1,0 +1,36 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "RockPaperScissorsDemo",
+  "steps": [
+    {
+      "file": "RockPaperScissorsDemo.py",
+      "description": "Welcome to your GitHub Copilot tour! Let's create something fun! Write this comment: # Write a rock, paper, scissors, game\n\nPress Next to go to the next step!",
+      "line": 1,
+      "contents": "# Write a rock, paper, scissors game  \n# import random module\nimport random\n# define main function that handles all the logic\ndef main():\n    # define variables\n    # rock = 1, paper = 2, scissors = 3\n    rock = 1\n    paper = 2\n    scissors = 3\n    # get user input\n    user = int(input(\"Enter 1 for rock, 2 for paper, or 3 for scissors: \"))\n    # generate random number for computer\n    computer = random.randint(1,3)\n    # determine winner\n    # rock beats scissors\n    if user == rock and computer == scissors:\n        print(\"You win! Rock beats scissors!\")\n    # paper beats rock\n    elif user == paper and computer == rock:\n        print(\"You win! Paper beats rock!\")\n    # scissors beats paper\n    elif user == scissors and computer == paper:\n        print(\"You win! Scissors beats paper!\")\n    # tie\n    elif user == computer:\n        print(\"It's a tie!\")\n    # computer wins\n    else:\n        print(\"Computer wins!\")\n\n# call main function\nmain()\n\n\n\n\n    \n\n\n\n\n    "
+    },
+    {
+      "file": "RockPaperScissorsDemo.py",
+      "description": "Next, let's prompt Copilot to import the random module. Write this comment # import random module on the next line. Press enter to accept the suggestion. The following should be displayed:\n\nimport random\n\nPress Next to go to the next step!",
+      "line": 2,
+      "contents": "# Write a rock, paper, scissors game  \n# import random module\nimport random\n# define main function that handles all the logic\ndef main():\n    # define variables\n    # rock = 1, paper = 2, scissors = 3\n    rock = 1\n    paper = 2\n    scissors = 3\n    # get user input\n    user = int(input(\"Enter 1 for rock, 2 for paper, or 3 for scissors: \"))\n    # generate random number for computer\n    computer = random.randint(1,3)\n    # determine winner\n    # rock beats scissors\n    if user == rock and computer == scissors:\n        print(\"You win! Rock beats scissors!\")\n    # paper beats rock\n    elif user == paper and computer == rock:\n        print(\"You win! Paper beats rock!\")\n    # scissors beats paper\n    elif user == scissors and computer == paper:\n        print(\"You win! Scissors beats paper!\")\n    # tie\n    elif user == computer:\n        print(\"It's a tie!\")\n    # computer wins\n    else:\n        print(\"Computer wins!\")\n\n# call main function\nmain()\n\n\n\n\n    \n\n\n\n\n    "
+    },
+    {
+      "file": "RockPaperScissorsDemo.py",
+      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game with the comment  # define main function that handles all the logic. Press tab then enter to accept the suggestion. The following should be displayed\n\ndef main():\n\nPress Next to go to the next step!",
+      "line": 4,
+      "contents": "# Write a rock, paper, scissors game  \n# import random module\nimport random\n# define main function that handles all the logic\ndef main():\n    # define variables\n    # rock = 1, paper = 2, scissors = 3\n    rock = 1\n    paper = 2\n    scissors = 3\n    # get user input\n    user = int(input(\"Enter 1 for rock, 2 for paper, or 3 for scissors: \"))\n    # generate random number for computer\n    computer = random.randint(1,3)\n    # determine winner\n    # rock beats scissors\n    if user == rock and computer == scissors:\n        print(\"You win! Rock beats scissors!\")\n    # paper beats rock\n    elif user == paper and computer == rock:\n        print(\"You win! Paper beats rock!\")\n    # scissors beats paper\n    elif user == scissors and computer == paper:\n        print(\"You win! Scissors beats paper!\")\n    # tie\n    elif user == computer:\n        print(\"It's a tie!\")\n    # computer wins\n    else:\n        print(\"Computer wins!\")\n\n# call main function\nmain()\n\n\n\n\n    \n\n\n\n\n    "
+    },
+    {
+      "file": "RockPaperScissorsDemo.py",
+      "description": "Now, let's prompt Copilot to call the main function. Write this comment # call main function on the next line. Press tab then enter to accept the suggestion\n\nPress Next to go to the next step!",
+      "line": 33,
+      "contents": "# Write a rock, paper, scissors game  \n# import random module\nimport random\n# define main function that handles all the logic\ndef main():\n    # define variables\n    # rock = 1, paper = 2, scissors = 3\n    rock = 1\n    paper = 2\n    scissors = 3\n    # get user input\n    user = int(input(\"Enter 1 for rock, 2 for paper, or 3 for scissors: \"))\n    # generate random number for computer\n    computer = random.randint(1,3)\n    # determine winner\n    # rock beats scissors\n    if user == rock and computer == scissors:\n        print(\"You win! Rock beats scissors!\")\n    # paper beats rock\n    elif user == paper and computer == rock:\n        print(\"You win! Paper beats rock!\")\n    # scissors beats paper\n    elif user == scissors and computer == paper:\n        print(\"You win! Scissors beats paper!\")\n    # tie\n    elif user == computer:\n        print(\"It's a tie!\")\n    # computer wins\n    else:\n        print(\"Computer wins!\")\n\n# call main function\nmain()\n\n\n\n\n    \n\n\n\n\n    "
+    },
+    {
+      "file": "RockPaperScissorsDemo.py",
+      "description": "Thank you for trying out the GitHub Copilot Rock, Paper, Scissors Demo! ",
+      "line": 35,
+      "contents": "# Write a rock, paper, scissors game  \n# import random module\nimport random\n# define main function that handles all the logic\ndef main():\n    # define variables\n    # rock = 1, paper = 2, scissors = 3\n    rock = 1\n    paper = 2\n    scissors = 3\n    # get user input\n    user = int(input(\"Enter 1 for rock, 2 for paper, or 3 for scissors: \"))\n    # generate random number for computer\n    computer = random.randint(1,3)\n    # determine winner\n    # rock beats scissors\n    if user == rock and computer == scissors:\n        print(\"You win! Rock beats scissors!\")\n    # paper beats rock\n    elif user == paper and computer == rock:\n        print(\"You win! Paper beats rock!\")\n    # scissors beats paper\n    elif user == scissors and computer == paper:\n        print(\"You win! Scissors beats paper!\")\n    # tie\n    elif user == computer:\n        print(\"It's a tie!\")\n    # computer wins\n    else:\n        print(\"Computer wins!\")\n\n# call main function\nmain()\n\n\n\n\n    \n\n\n\n\n    "
+    }
+  ]
+}

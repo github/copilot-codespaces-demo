@@ -1,0 +1,24 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "AutofillRepetitiveCode",
+  "steps": [
+    {
+      "file": "AutofillRepetitiveCode.py",
+      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to Autofill Repetitve Code! Start by writing a few constants: Write const zero = 0 (press enter), Write const one = 1 (press enter), Write const two = 2 (press enter) \n\nPress Next to go to the next step!",
+      "line": 1,
+      "contents": "# Declare Constants\nconst zero = 0\nconst one = 1\nconst two = 2\nconst three = 3\nconst four = 4\nconst five = 5\nconst six = 6\nconst seven = 7\nconst eight = 8\nconst nine = 9\nconst ten = 10\nconst eleven = 11\nconst twelve = 12\nconst thirteen = 13\nconst fourteen = 14\nconst fifteen = 15\nconst sixteen = 16\nconst seventeen = 17\nconst eighteen = 18\nconst nineteen = 19\nconst twenty = 20\nconst thirty = 30\nconst forty = 40\nconst fifty = 50\nconst sixty = 60\nconst seventy = 70\nconst eighty = 80\nconst ninety = 90\nconst hundred = 100\n\n\n\n\n\n"
+    },
+    {
+      "file": "AutofillRepetitiveCode.py",
+      "description": "Now that you've defined a few constants, you should start to see Copilot suggestioning to autofill a full list of constants line by line. To view a full list of suggestions, hover your mouse over the ghost text and select \"Open Completion Panel\". Select \"Accept Solution\" to accept the suggestion given.\n\nPress Next to go to the next step! ",
+      "line": 4,
+      "contents": "# Declare Constants\nconst zero = 0\nconst one = 1\nconst two = 2\nconst three = 3\nconst four = 4\nconst five = 5\nconst six = 6\nconst seven = 7\nconst eight = 8\nconst nine = 9\nconst ten = 10\nconst eleven = 11\nconst twelve = 12\nconst thirteen = 13\nconst fourteen = 14\nconst fifteen = 15\nconst sixteen = 16\nconst seventeen = 17\nconst eighteen = 18\nconst nineteen = 19\nconst twenty = 20\nconst thirty = 30\nconst forty = 40\nconst fifty = 50\nconst sixty = 60\nconst seventy = 70\nconst eighty = 80\nconst ninety = 90\nconst hundred = 100\n\n\n\n\n\n"
+    },
+    {
+      "file": "AutofillRepetitiveCode.py",
+      "description": "Thank you for trying out the GitHub Copilot Autofill Demo! Explore with different scenarios of your own!",
+      "line": 42,
+      "contents": "# Declare Constants\nconst zero = 0\nconst one = 1\nconst two = 2\nconst three = 3\nconst four = 4\nconst five = 5\nconst six = 6\nconst seven = 7\nconst eight = 8\nconst nine = 9\nconst ten = 10\nconst eleven = 11\nconst twelve = 12\nconst thirteen = 13\nconst fourteen = 14\nconst fifteen = 15\nconst sixteen = 16\nconst seventeen = 17\nconst eighteen = 18\nconst nineteen = 19\nconst twenty = 20\nconst thirty = 30\nconst forty = 40\nconst fifty = 50\nconst sixty = 60\nconst seventy = 70\nconst eighty = 80\nconst ninety = 90\nconst hundred = 100\n\n\n\n\n\n"
+    }
+  ]
+}

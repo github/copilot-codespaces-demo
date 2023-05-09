@@ -1,0 +1,42 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "ConvertCommentsToCode",
+  "steps": [
+    {
+      "file": "ConvertCommentsToCodeDemo.py",
+      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to Convert Comments to Code! Write this comment: # Write a function that counts to 10 and prints each number on a new line.\n\nPress Next to go to the next step! ",
+      "line": 1,
+      "contents": "# Write a function that counts to 10 and prints each number on a new line.\n\ndef count_to_ten():\n    \"\"\"Count to ten and print each number on a new line.\"\"\"\n    for i in range(1, 11):\n        print(i)\n\ncount_to_ten()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "file": "ConvertCommentsToCodeDemo.py",
+      "description": "Next, let's give Copilot a defined function for our initial comment request. Write this comment def count_to_ten(): and press enter. \n\nPress Next to go to the next step!",
+      "line": 3,
+      "contents": "# Write a function that counts to 10 and prints each number on a new line.\n\ndef count_to_ten():\n    \"\"\"Count to ten and print each number on a new line.\"\"\"\n    for i in range(1, 11):\n        print(i)\n\ncount_to_ten()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "file": "ConvertCommentsToCodeDemo.py",
+      "description": "Now, you should see a suggestion given by Copilot. To view other suggestions, you can use your mouse to hover over the ghost print suggestion. You will be prompted by the following options (Next, Previous, Accept, or Open Completions Panel). In this example lets accept the Copilot suggestion by pressing Tab!\n\nPress Next to go to the next step! ",
+      "line": 4,
+      "contents": "# Write a function that counts to 10 and prints each number on a new line.\n\ndef count_to_ten():\n    \"\"\"Count to ten and print each number on a new line.\"\"\"\n    for i in range(1, 11):\n        print(i)\n\ncount_to_ten()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "file": "ConvertCommentsToCodeDemo.py",
+      "description": "Next, lets prompt Copilot to call our function ",
+      "line": 8,
+      "contents": "# Write a function that counts to 10 and prints each number on a new line.\n\ndef count_to_ten():\n    \"\"\"Count to ten and print each number on a new line.\"\"\"\n    for i in range(1, 11):\n        print(i)\n\ncount_to_ten()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "file": "ConvertCommentsToCodeDemo.py",
+      "description": "Let's Try out our Code! In your terminal, run ConvertCommentsToCodeDemo.py. It should display the following below:\n1\n2\n...\n10.\n",
+      "line": 9,
+      "contents": "# Write a function that counts to 10 and prints each number on a new line.\n\ndef count_to_ten():\n    \"\"\"Count to ten and print each number on a new line.\"\"\"\n    for i in range(1, 11):\n        print(i)\n\ncount_to_ten()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "file": "ConvertCommentsToCodeDemo.py",
+      "description": "Thank you for trying out the GitHub Copilot Convert to Comments Demo! Try a few different variables of your own!",
+      "line": 10,
+      "contents": "# Write a function that counts to 10 and prints each number on a new line.\n\ndef count_to_ten():\n    \"\"\"Count to ten and print each number on a new line.\"\"\"\n    for i in range(1, 11):\n        print(i)\n\ncount_to_ten()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "RunUnitTest",
+  "steps": [
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning how Run a Unit Test. Let's start by importing unittest module.\n\nPress Next to go to the next step!",
+      "line": 1,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Next, let's start by defining a function called 'add' that will take two arguments 'a' and 'b' and returns the sum of both. Write the following: \n\ndef add(x, y):\n    return x + y \n\nPress Next to go to the next step!",
+      "line": 3,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Next,let's define a test class 'TestAdd' that inherits from 'unittest.TestCase' and will contain four test methods. Write the following:\n\nclass TestAdd(unittest.TestCase):\n\nPress Next to go to the next step!\n",
+      "line": 7,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Next define our 4 test methods starting with test_add_positive_numbers(), that will check that the function will correctly add two positive numbers and return the expected result. Write the following: \n\ndef test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\nPress Next to go to the next step!",
+      "line": 9,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Next, let's define our 2nd test method with test_add_negative_numbers(), that will check that the function will correctly add two negative numbers and return the expected result. Write the following:\n\ndef test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)\n        \nPress Next to go to the next step!",
+      "line": 13,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Next, let's define our 3rd test method with test_add_positive_and_negative_numbers(), that will check that the function will correctly add a positive and negative number and return the expected result. Write the following:\n\ndef test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\nPress Next to go to the next step!",
+      "line": 17,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Next, let's define our final test method with test_add_zero_and_positive_numbers(), that will check that the function will correctly add a zero and a positive number and return the expected result. Write the following:\n\ndef test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\nPress Next to go to the next step!",
+      "line": 21,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Let's test our code! To run the test, we will use 'unittest.main()' which will run all test methods defined in the 'TestAdd\" class. If any of the tests fail, 'unittest' will report which test failed. Write the following:  \n\nif __name__ == '__main__':\n    unittest.main()\n\nPress Next to go to the next step!",
+      "line": 26,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    },
+    {
+      "file": "RunUnitTestDemo.py",
+      "description": "Thank you for trying out the GitHub Copilot Unit Test Demo. Explore with different variables or other unit test of your own!",
+      "line": 28,
+      "contents": "import unittest\n\ndef add(x, y):\n    return x + y    \n\n\nclass TestAdd(unittest.TestCase):\n\n    def test_add_positive_numbers(self):\n        result = add(2, 3)\n        self.assertEqual(result, 5)\n\n    def test_add_negative_numbers(self):\n        result = add(-2, -3)\n        self.assertEqual(result, -5)    \n\n    def test_add_positive_and_negative_numbers(self):\n        result = add(-2, 3)\n        self.assertEqual(result, 1) \n\n    def test_add_zero_and_positive_numbers(self):\n        result = add(0, 3)\n        self.assertEqual(result, 3)\n\n\nif __name__ == '__main__':\n    unittest.main()\n\n\n"
+    }
+  ]
+}
