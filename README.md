@@ -1,5 +1,5 @@
 # Welcome to the Copilot+Codespaces Demo 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/github/copilot-codespaces-demo)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/github/copilot-codespaces-demo?quickstart=1)
 
 
 ## Our Mission
