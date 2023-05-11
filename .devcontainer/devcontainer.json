@@ -6,7 +6,9 @@
         },
         "vscode": {
         "extensions": [
-          "github.copilot"
+          "github.copilot",
+          "vsls-contrib.codetour",
+          "ms-python.python"
         ]},
       "portsAttributes": {
         "3000": {
