@@ -2,7 +2,7 @@
     "name": "Try Copilot",
     "customizations": {
         "codespaces": {
-          "openFiles": ["README.md"]
+          "openFiles": []
         },
         "vscode": {
         "extensions": [
