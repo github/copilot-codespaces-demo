@@ -1,0 +1,3 @@
+👋 Welcome to the Copilot+Codespaces Demo Experience! We are thrilled that you are here and we hope you are excited to explore the capabilities of Copilot!
+🔍  If you are in need of assistance, please check out our CodeTours in the left hand corner!
+📝 If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing
