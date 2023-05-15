@@ -1,25 +1,26 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/universal:2",
-    "hostRequirements": {
-        "cpus": 4
-    },
-    "name": "Try Copilot",
-    "customizations": {
-        "codespaces": {
-          "openFiles": []
-        },
-        "vscode": {
-        "extensions": [
-          "github.copilot",
-          "vsls-contrib.codetour",
-          "ms-python.python"
-        ]},
-      "portsAttributes": {
-        "3000": {
-          "label": "README",
-          "onAutoForward": "openPreview"
-        }
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "hostRequirements": {
+      "cpus": 4
+  },
+  "name": "Try Copilot",
+  "postCreateCommand": "sudo cp --force ./.devcontainer/welcome-message.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt",
+  "customizations": {
+      "codespaces": {
+        "openFiles": []
+      },
+      "vscode": {
+      "extensions": [
+        "github.copilot",
+        "vsls-contrib.codetour",
+        "ms-python.python"
+      ]},
+    "portsAttributes": {
+      "3000": {
+        "label": "README",
+        "onAutoForward": "openPreview"
       }
-    },
-    "forwardPorts": [3000]
+    }
+  },
+  "forwardPorts": [3000]
 }
