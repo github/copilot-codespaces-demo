@@ -33,7 +33,7 @@
     },
     {
       "file": "ConvertCommentsToCode.py",
-      "description": "Thank you for trying out the GitHub Copilot Convert to Comments demo! Try a few different variables of your own!",
+      "description": "Thank you for trying out the GitHub Copilot Convert to Comments demo! Try a few different variables of your own! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
       "line": 10,
       "contents": ""
     }
