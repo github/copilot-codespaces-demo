@@ -8,6 +8,22 @@ During the the GitHub Copilot+Codespaces Demo, you are in charge! You will have 
 
 <em>If you are in need of assistance, we have provided Codetours located in the left hand corner that help guide you through the current Copilot capabilities!</em>
 
+## Getting Started
+
+<details>
+   
+1. To get started, start by selecting 'Use this template', and 'Open in a codespace'
+![Screenshot 2023-05-15 at 4 39 05 PM](https://github.com/github/copilot-codespaces-demo/assets/40559511/6ecd9ddf-1155-4283-a6c1-56a1d6667e65)
+
+2. Once the codespace has loaded, select 'Codetour' on the lower right corner
+ 
+![Screenshot 2023-05-15 at 4 41 34 PM](https://github.com/github/copilot-codespaces-demo/assets/40559511/296f20d3-1547-4c00-b4ae-63b216b52b6d)
+
+3. Next, select the play button of 1 of the 4 tours listed. Enjoy!
+
+![Screenshot 2023-05-15 at 4 42 42 PM](https://github.com/github/copilot-codespaces-demo/assets/40559511/84473f82-364a-4482-895d-04888e419917)
+   
+</details>
 
 ## FAQ
 <details>
