@@ -33,7 +33,7 @@
     },
     {
       "title": "Try it out!",
-      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your RockPaperScissors.py file. It should start the rock, paper, scissors game. \n\n>> python3 RockPaperScissors.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
+      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your RockPaperScissors.py file. It should start the rock, paper, scissors game. \n\n>> python3 RockPaperScissors.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing"
     }
   ],
   "ref": "main"
