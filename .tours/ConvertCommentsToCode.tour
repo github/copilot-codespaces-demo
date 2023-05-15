@@ -29,7 +29,7 @@
     {
         "file": "ConvertCommentsToCode.py",
         "line": 9,
-        "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your ConvertCommentsToCode.py file. It should count from one to ten. \n\n>> python3 ConvertCommentsToCode.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
+        "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your ConvertCommentsToCode.py file. It should count from one to ten. \n\n>> python3 ConvertCommentsToCode.py\n\nMission complete! You've used GitHub Copilot to create a function that counts to 10!"
     },
     {
       "file": "ConvertCommentsToCode.py",
