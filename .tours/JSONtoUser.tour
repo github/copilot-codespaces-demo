@@ -9,13 +9,13 @@
     },
     {
       "file": "JSONtoUser.py",
-      "description": "We can use Copilot to automatically serialize the json into the class. Press [Enter] at the end of line 14 to prompt Copilot to generate the boilerplate code. \n\nOnce it's generated the code, press `Next` to continue 👇",
+      "description": "We can use Copilot to automatically serialize the json into the class. Press [Enter] at the end of line 14 to prompt Copilot to generate the boilerplate code, and [Tab] to accept the generated code. \n\nOnce it's generated the code, press `Next` to continue 👇",
       "line": 14
     },
 
     {
       "file": "JSONtoUser.py",
-      "description": "We can also use Copilot convert from write a function to convert from the class to JSON. Press [Enter] at the end of line 18 to prompt Copilot to generate the boilerplate code. \n\nOnce it's generated the code, press `Next` to continue 👇",
+      "description": "We can also use Copilot to  write a function to convert from the class to JSON. Press [Enter] at the end of line 18 to prompt Copilot to generate the boilerplate code, and [Tab] to accept the generated code. \n\nOnce it's generated the code, press `Next` to continue 👇",
       "line": 18
     },
     {
