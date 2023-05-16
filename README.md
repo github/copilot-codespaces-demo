@@ -44,9 +44,10 @@ GitHub Codespaces run on a variety of VM-based compute options hosted by GitHub.
 Template text for Question 3.
 </details>
 <details>
-<summary>Template Question 4</summary><br>
+<summary>What are the feature limitations of the Copilot+Codespaces Demo?</summary><br>
 
-Template text for Question 4.
+This demo will only showcase current GitHub Copilot capabilities that are intended to help programmers, such as autocompletion suggestions, functions, and the ability to convert code comments into actual lines of code. Any features mentioned for GitHub Copilot X will not be offered in this demo experience. Visit here to signup for the [GitHub Copilot X Waitlists](https://github.com/features/preview).
+   
 </details>
 <details>
 <summary>🛠 Copilot+Codespaces Demo Disclaimer 🛠</summary><br>
