@@ -6,9 +6,6 @@
   "name": "Try Copilot",
   "postCreateCommand": "sudo cp --force ./.devcontainer/welcome-message.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt",
   "customizations": {
-      "codespaces": {
-        "openFiles": ["README.md", "JSONtoUser.py"]
-      },
       "vscode": {
       "extensions": [
         "github.copilot",
