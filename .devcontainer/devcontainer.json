@@ -7,7 +7,7 @@
   "postCreateCommand": "sudo cp --force ./.devcontainer/welcome-message.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt",
   "customizations": {
       "codespaces": {
-        "openFiles": []
+        "openFiles": ["README.md", "JSONtoUser.py"]
       },
       "vscode": {
       "extensions": [
