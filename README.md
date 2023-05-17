@@ -11,17 +11,16 @@ During the the GitHub Copilot+Codespaces Demo, you are in charge! You will have 
 ## Getting Started
 1. To get started, start by selecting 'Use this template', and 'Open in a codespace'
 
-![Screenshot 2023-05-16 at 4 40 46 PM](https://github.com/github/copilot-codespaces-demo/assets/40559511/8a1f4adb-ae0a-4415-a5d4-a49da6780834)
-
+![Screenshot 2023-05-16 at 4 40 46 PM](media/screenshot1.png)
 
 2. Once the codespace has loaded, select 'Codetour' on the lower right corner, and start the JSONtoUser tour!
 
-![Screenshot 2023-05-16 at 4 41 30 PM](https://github.com/github/copilot-codespaces-demo/assets/40559511/8c3d901f-c537-4703-baba-07bfbfe0e728)
+![Screenshot 2023-05-16 at 4 41 30 PM](media/screenshot2.png)
 
 
-3. Next, select the play button of 1 of the 4 tours listed. Enjoy!
+3. Next, select the play button for one of the tours listed. Enjoy!
 
-![Screenshot 2023-05-16 at 4 43 43 PM](https://github.com/github/copilot-codespaces-demo/assets/40559511/7a30c55b-5e8c-490a-b004-8cc1f015c8ab)
+![Screenshot 2023-05-16 at 4 43 43 PM](media/screenshot3.png)
 
    
 
