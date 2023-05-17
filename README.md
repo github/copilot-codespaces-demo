@@ -15,12 +15,12 @@ During the the GitHub Copilot+Codespaces Demo, you are in charge! You will have 
 
 2. Once the codespace has loaded, select 'Codetour' on the lower right corner, and start the JSONtoUser tour!
 
-![screenshot2](https://github.com/github/copilot-codespaces-demo/assets/40559511/9897d59d-d04e-442b-a662-548d368a4834)
+![screenshot2](media/screenshot2.png)
 
 
 3. Next, select the play button for one of the tours listed. Enjoy!
 
-![screenshot3](https://github.com/github/copilot-codespaces-demo/assets/40559511/f24f90ff-0725-4a83-a1e8-4e56a462510e)
+![screenshot3](media/screenshot3.png)
 
 
 ## FAQ
