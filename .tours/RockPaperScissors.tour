@@ -3,37 +3,24 @@
   "title": "RockPaperScissors",
   "steps": [
     {
+      "file": "RockPaperScissors.py",
       "title": "Introduction",
-      "description": "Hi there! this is a guided tour to help you learn GitHub Copilot. We will build a rock, paper, scissors game with Python.\n\nPress `Next` to to get started 👇"
-    },
-    {
-      "file": "RockPaperScissors.py",
-      "line": 1,
-      "description": "Let's give GitHub Copilot some context about what we're building. Let's start by adding the following comment to the file line of the main.py file. \n```\n# Write a rock, paper, scissors game\n```\nPress `Next` to continue 👇"
-    },
-    {
-      "file": "RockPaperScissors.py",
-      "line": 2,
-      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\n```\n# import random module\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress __Next__ to to continue 👇"
-    },
-    {
-      "file": "RockPaperScissors.py",
-      "line": 4,
-      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game. Enter the following comment to provide context to GitHub Copilot \n```\n# define main function that handles all the logic\n```\nPress enter to create a new line and __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see a code suggestion.\n\nPress `Next` to continue 👇"
+      "description": "Hi there! this is a guided tour to help you learn GitHub Copilot. We will build a rock, paper, scissors game with Python.\n\nPress `Next` to to get started 👇",
+      "line": 1
     },
     {
       "file": "RockPaperScissors.py",
       "line": 5,
-      "description": "Now, let's prompt Copilot to create a list of choices. Enter the following comment to provide context to GitHub Copilot \n```\n# create a list of choices\n```\nPress enter to create a new line and __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see a code suggestion.\n\nPress `Next` to continue 👇"
+      "description": "We've created some boilerplate code for this game, but we still need to implement the game itself. Let's prompt Copilot to create a the code that handles the logic of the game.\n\n Press __ENTER__ at the end of the line, then __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see a code suggestion. Continue to accept Copilot's suggestions until Copilot calls the main() function.\n\nPress `Next` to continue 👇"
     },
     {
       "file": "RockPaperScissors.py",
-      "line": 64,
-      "description": "Continue to prompt Copilot to suggests code until it calls a main() function for you! \n\nPress `Next` to to get continue 👇"
+      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your RockPaperScissors.py file. It should start the rock, paper, scissors game. \n\n>> python3 RockPaperScissors.py",
+      "line": 10
     },
     {
-      "title": "Try it out!",
-      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your RockPaperScissors.py file. It should start the rock, paper, scissors game. \n\n>> python3 RockPaperScissors.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing"
+      "file": "RockPaperScissors.py",
+      "description": "Mission complete! You've used GitHub Copilot to create a rock, paper, scissor game! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing"
     }
   ],
   "ref": "main"

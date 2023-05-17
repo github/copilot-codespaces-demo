@@ -9,18 +9,18 @@
     },
     {
       "file": "JSONtoUser.py",
-      "description": "We can use Copilot to automatically serialize the json into the class. Press [Enter] at the end of line 14 to prompt Copilot to generate the boilerplate code, and [Tab] to accept the generated code. \n\nOnce it's generated the code, press `Next` to continue 👇",
+      "description": "We can use Copilot to automatically serialize the json into the class. Press __ENTER__ at the end of line 14 to prompt Copilot to generate the boilerplate code, and __TAB__ to accept the generated code. \n\nOnce it's generated the code, press `Next` to continue 👇",
       "line": 14
     },
 
     {
       "file": "JSONtoUser.py",
-      "description": "We can also use Copilot to  write a function to convert from the class to JSON. Press [Enter] at the end of line 18 to prompt Copilot to generate the boilerplate code, and [Tab] to accept the generated code. \n\nOnce it's generated the code, press `Next` to continue 👇",
+      "description": "We can also use Copilot to  write a function to convert from the class to JSON. Press __ENTER__ at the end of line 18 to prompt Copilot to generate the boilerplate code, and __TAB__ to accept the generated code. \n\nOnce it's generated the code, press `Next` to continue 👇",
       "line": 18
     },
     {
       "file": "JSONtoUser.py",
-      "description": "Thank you for trying out the GitHub Copilot Autofill Demo! Try out some new Code Tours in the bottom left panel! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
+      "description": "Thank you for trying out the GitHub JSONtoUser Demo! Try out some new Code Tours in the bottom left panel! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
       "line": 42
     }
   ]

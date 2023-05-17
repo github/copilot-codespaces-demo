@@ -4,26 +4,14 @@
   "steps": [
     {
       "file": "ConvertCommentsToCode.py",
-      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to Convert Comments to Code! Write this comment:\n\n``` # Write a function that counts to 10 and prints each number on a new line.```\n\nPress Next to go to the next step! ",
+      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to Convert Comments to Code! \n\nPress Next to continue 👇! ",
       "line": 1,
       "contents": ""
     },
     {
       "file": "ConvertCommentsToCode.py",
-      "description": "Next, let's give Copilot a defined function for our initial comment request. Write this comment \n\n```def count_to_ten():```\n\n and press enter. \n\nPress Next to go to the next step!",
-      "line": 3,
-      "contents": ""
-    },
-    {
-      "file": "ConvertCommentsToCode.py",
-      "description": "Now, you should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing Tab!\n\nPress Next to go to the next step! ",
-      "line": 4,
-      "contents": ""
-    },
-    {
-      "file": "ConvertCommentsToCode.py",
-      "description": "Next, lets prompt Copilot to call our function. Add a comment that says: \n\n```# call count_to_ten()``` ",
-      "line": 8,
+      "description": "Put your cursor at the end of the function declaration count_to_ten() and press __ENTER__. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 2,
       "contents": ""
     },
     {
