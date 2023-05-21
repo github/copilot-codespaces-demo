@@ -10,7 +10,7 @@
     },
     {
       "file": "ConvertCommentsToCode.py",
-      "description": "Put your cursor at the end of the function declaration count_to_ten() and press __ENTER__. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "description": "Press __ENTER__ at the end of line 2. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
       "line": 2,
       "contents": ""
     },
