@@ -3,24 +3,24 @@
   "title": "ConvertCommentsToCode",
   "steps": [
     {
-      "file": "ConvertCommentsToCode.py",
+      "file": "convert_comments_to_code.py",
       "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to Convert Comments to Code! \n\nPress Next to continue 👇! ",
       "line": 1,
       "contents": ""
     },
     {
-      "file": "ConvertCommentsToCode.py",
+      "file": "convert_comments_to_code.py",
       "description": "Press __ENTER__ at the end of line 2. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
       "line": 2,
       "contents": ""
     },
     {
-        "file": "ConvertCommentsToCode.py",
+        "file": "convert_comments_to_code.py",
         "line": 9,
         "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your ConvertCommentsToCode.py file. It should count from one to ten. \n\n>> python3 ConvertCommentsToCode.py\n\nMission complete! You've used GitHub Copilot to create a function that counts to 10!"
     },
     {
-      "file": "ConvertCommentsToCode.py",
+      "file": "convert_comments_to_code.py",
       "description": "Thank you for trying out the GitHub Copilot Convert to Comments demo! Try a few different variables of your own! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
       "line": 10,
       "contents": ""
