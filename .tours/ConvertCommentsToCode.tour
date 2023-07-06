@@ -17,7 +17,7 @@
     {
         "file": "convert_comments_to_code.py",
         "line": 9,
-        "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your ConvertCommentsToCode.py file. It should count from one to ten. \n\n>> python3 ConvertCommentsToCode.py\n\nMission complete! You've used GitHub Copilot to create a function that counts to 10!"
+        "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your convert_comments_to_code.py file. It should count from one to ten. \n\n>> python3 convert_comments_to_code.py\n\nMission complete! You've used GitHub Copilot to create a function that counts to 10!"
     },
     {
       "file": "convert_comments_to_code.py",
