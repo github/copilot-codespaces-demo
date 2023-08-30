@@ -1,4 +1,4 @@
-# Welcome to the Copilot+Codespaces Playground Demo 
+# GitHub Copilot + Codespaces Playground Demo
 
 ## Our Mission
 
