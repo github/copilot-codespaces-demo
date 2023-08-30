@@ -16,11 +16,11 @@ During the GitHub Copilot + Codespaces Playground Demo, you are in charge! You w
 
    ![Screenshot 2023-05-16 at 4 40 46 PM](media/screenshot1.png)
 
-2. Once the codespace has loaded, select **CodeTour** in the lower left corner, and start the **JSONtoUser** tour!
+2. Once the codespace has loaded, select **CodeTour** in the lower left corner.
 
    ![screenshot2](media/screenshot2.png)
 
-3. Next, select the play button for one of the tours listed. Enjoy!
+3. Select the play button for one of the tours listed. Enjoy!
 
    ![screenshot3](media/screenshot3.png)
 
