@@ -39,7 +39,7 @@ GitHub Codespaces run on a variety of VM-based compute options hosted by GitHub.
 <details>
 <summary>Are there any prerequisites to get access to the Copilot+Codespaces Playground Demo?</summary><br>
    
-A GitHub account is the only requirement to use the GitHub Copilot + Github Codespaces playground demo environment. The demo will only be available to the extent of your account’s Codespaces entitlements; if you want to keep utilizing the environment after your limit has been met, you will need to purchase additional entitlements Visit here to signup for a [GitHub Copilot](https://github.com/features/copilot) trial for the full experience! 
+A GitHub account is the only requirement to use the GitHub Copilot + Github Codespaces playground demo environment. The demo will limited to a one-time use of two hours, once the two hours expires, you will no longer be able to use the GitHub Copilot + Codespaces demo environment. Visit here to signup for a [GitHub Copilot](https://github.com/features/copilot) trial for the full experience! 
 </details>
 <details>
 <summary>What are the feature limitations of the Copilot+Codespaces Playground Demo?</summary><br>
