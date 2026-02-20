@@ -1,3 +1,8 @@
+>[!WARNING]                                                                                                                                                              
+> **This demo is no longer maintained.** The `copilot-codespaces-demo` experience has been deprecated and is not recommended for getting started with GitHub Copilot.
+>
+>To get started for free, follow the [official quickstart guide](https://docs.github.com/en/copilot/get-started/quickstart#sign-up-for-github-copilot-2).                                                                                                                                                                                       
+
 # Welcome to the Copilot+Codespaces Playground Demo 
 
 ## Our Mission
