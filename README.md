@@ -49,7 +49,7 @@ A GitHub account is the only requirement to use the GitHub Copilot + Github Code
 <details>
 <summary>What are the feature limitations of the Copilot+Codespaces Playground Demo?</summary><br>
 
-This demo will only showcase current GitHub Copilot capabilities that are intended to help programmers, such as autocompletion suggestions, functions, and the ability to convert code comments into actual lines of code. Any features mentioned for GitHub Copilot X will not be offered in this demo experience. Visit here to signup for the [GitHub Copilot X Waitlists](https://github.com/features/preview).
+This demo will only showcase current GitHub Copilot capabilities that are intended to help programmers, such as autocompletion suggestions, functions, and the ability to convert code comments into actual lines of code. 
    
 </details>
 <details>
